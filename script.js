@@ -40,7 +40,7 @@ fetch(url)
           `;
       countriesContainer.appendChild(countryDiv);
     }
-  });
+ });
 
 function getWeatherData(latitude, longitude, countryCode) {
   const apiKey = "8a02350c859d72fd590d6f4bb751370d";
