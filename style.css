@@ -20,6 +20,7 @@ body {
     transition: transform 0.3s ease-in-out;
     width: 100%;
     margin-bottom: 20px;
+    padding: auto;
   }
   
   .country-card:hover {
